@@ -2,11 +2,11 @@
 node_modules
 # Created by https://www.gitignore.io/api/django
 # Edit at https://www.gitignore.io/?templates=django
-
+.vscode
 ### Django ###
 *.log
 *.pot
-*.pyc
+*.pycg
 __pycache__/
 local_settings.py
 db.sqlite3
